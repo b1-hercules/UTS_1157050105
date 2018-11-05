@@ -1,0 +1,4 @@
+#Mon Nov 05 21:41:11 WIB 2018
+base.0=/home/nginx/AndroidStudioProjects/UTS_1157050105/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

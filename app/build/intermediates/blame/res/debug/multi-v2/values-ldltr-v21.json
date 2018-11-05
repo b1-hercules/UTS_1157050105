@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nginx/AndroidStudioProjects/UTS_1157050105/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/nginx/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/74abf45aafd4e9401b871a0827aae76a/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
